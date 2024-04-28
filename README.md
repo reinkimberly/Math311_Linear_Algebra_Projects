@@ -12,3 +12,8 @@ https://colab.research.google.com/drive/1OW5-psa8DbvgYiGzNeZKi7-iSTugUJte?usp=sh
 
 2. The Ski Hill Example: Modeling Future behavior using transition matrices.
 
+https://colab.research.google.com/github/reinkimberly/Math311_Linear_Algebra_Projects/blob/main/Kim's_%22The_Ski_Hill%22_Project.ipynb
+
+3. Ranking Sports Teams using Matrices on Co-Laboratory.
+
+https://colab.research.google.com/github/reinkimberly/Math311_Linear_Algebra_Projects/blob/main/Kim's_Copy_of_Sports_Teams_Rankings.ipynb#scrollTo=TwGBRAD9R6W4
